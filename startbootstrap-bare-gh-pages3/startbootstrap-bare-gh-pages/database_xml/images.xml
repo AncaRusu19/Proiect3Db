@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<images>
+    <image>
+        <name>1984</name>
+        <path>uploads/1984.jpeg</path>
+    </image>
+    <image>
+        <name>harry</name>
+        <path>uploads/harry.jpeg</path>
+    </image>
+    <image>
+        <name>Mandrie_si_prejudecata</name>
+        <path>uploads/Mandrie_si_prejudecata.jpg</path>
+    </image>
+    <image>
+        <name>sapiens</name>
+        <path>uploads/sapiens.jpeg</path>
+    </image>
+</images>

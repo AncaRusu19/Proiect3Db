@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<users xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="users.xsd">
+    <user>
+        <email>rusuanca19@yahoo.com</email>
+        <password>JLPSghm7</password>
+    </user>
+    <user>
+        <email>cuncea.alexandra@yahoo.com</email>
+        <password>hahaha</password>
+    </user>
+    <user>
+        <email>ilinca.temneanu@yahoo.com</email>
+        <password>hahahaha</password>
+    </user>
+    <user>
+        <email>anaciobanu@yahoo.com</email>
+        <password>hahahahaha</password>
+    </user>
+    <user>
+        <email>admin@yahoo.com</email>
+        <password>admin</password>
+    </user>
+<user>
+    <email>rusuelena@yahoo.com</email>
+    <password>GLYbdvx6</password>
+</user>
+<user>
+    <email>rusumircea97@yahoo.com</email>
+    <password>hahaha1</password>
+</user>
+<user><email>rusuvladimir67@yahoo.com</email><password>lalala</password></user><user><email>gutic_gabriel@yahoo.com</email><password>hello</password></user></users>
